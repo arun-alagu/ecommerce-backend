@@ -4,3 +4,6 @@
 [submodule "UserAuthenticationService"]
 	path = UserAuthenticationService
 	url = https://github.com/arun-alagu/UserAuthenticationService.git
+[submodule "EmailService"]
+	path = EmailService
+	url = https://github.com/arun-alagu/EmailService.git
