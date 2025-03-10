@@ -7,3 +7,9 @@
 [submodule "EmailService"]
 	path = EmailService
 	url = https://github.com/arun-alagu/EmailService.git
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/arun-alagu/PaymentService.git
+[submodule "service-discovery"]
+	path = service-discovery
+	url = https://github.com/arun-alagu/service-discovery.git
